@@ -13,3 +13,9 @@ rog= len(records)
 for record in snames:
     print(','.join(record))
 print(f'Number of "S" names is {scount}/{rog}')
+
+#output
+sid,sname,salary
+1,sai,3500
+5,seeta,4200
+Number of "S" names is 3/6
